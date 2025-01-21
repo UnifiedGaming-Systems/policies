@@ -6,7 +6,7 @@ Welcome to the UnifiedGaming Systems Policies repository! This repository houses
 
 ## 📋 Table of Contents
 
-1. [Intellectual Property and Code Ownership Policy](#intellectual-property-and-code-ownership-policy)
+1. [Intellectual Property and Code Ownership Policy]([#intellectual-property-and-code-ownership-policy](https://github.com/UnifiedGaming-Systems/policies/blob/main/Intellectual%20Property%20and%20Code%20Ownership%20Policy/Intellectual%20Property%20and%20Code%20Ownership%20Policy.docx))
 
 ---
 
@@ -18,7 +18,7 @@ Our Intellectual Property and Code Ownership Policy outlines the rules and respo
 - Licensing agreements and attribution requirements.
 - Usage rights for UnifiedGaming Systems’ intellectual property.
 
-[Read the Full Policy](intellectual_property_policy.md)
+[Read the Full Policy]([intellectual_property_policy.md](https://github.com/UnifiedGaming-Systems/policies/blob/main/Intellectual%20Property%20and%20Code%20Ownership%20Policy/Intellectual%20Property%20and%20Code%20Ownership%20Policy.docx))
 
 ---
 
